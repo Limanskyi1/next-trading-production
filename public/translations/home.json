@@ -1,0 +1,100 @@
+{
+  "en": {
+    "head": {
+      "title": "Home",
+      "description": "Simple static theme for fast and reliable websites."
+    },
+
+    "hero": {
+      "subtitle": "Get our platform",
+      "title": "One Platform Powering Better Conditions",
+      "text": "Unlock global market potential with our expert guidance. We simplify trading complexities, helping you make informed decisions for optimal outcomes and sustainable investment growth.",
+      "btn": "Open Account"
+    },
+
+    "advantages": {
+      "items": [
+        {
+          "image": "/img/home/adv-icon-1.svg",
+          "title": "Education at Your Fingertips",
+          "text": "Whether you're a beginner or a seasoned trader, our comprehensive educational resources provide insights to elevate your trading knowledge."
+        },
+        {
+          "image": "/img/home/adv-icon-2.svg",
+          "title": "Dedicated 24/7 Support",
+          "text": "Trading doesn’t sleep, and neither do we. Our expert team is on hand around the clock, ready to assist you whenever you need."
+        },
+        {
+          "image": "/img/home/adv-icon-3.svg",
+          "title": "Expertise You Can Count On",
+          "text": "Our trained professionals are not only well-versed in troubleshooting but also possess in-depth knowledge of the trading industry."
+        }
+      ]
+    },
+
+    "derivatives": {
+      "title": "Diverse Derivatives at Your Disposal",
+      "btnText": "Open Account",
+      "items": [
+        {
+          "title": "Indices",
+          "text": "Tap into the world's major stock markets. With our indices derivatives, you can speculate on the movements of top indices from the S&P 500 to the Nikkei 225, harnessing the broader market's momentum."
+        },
+        {
+          "title": "Commodities",
+          "text": "Venture into the timeless trade of tangible goods. Whether it's precious metals like gold and silver or essential commodities like oil and natural gas, we've got you covered."
+        },
+        {
+          "title": "Forex",
+          "text": "Navigate the dynamic world of foreign exchange with us. From major to exotic pairs, access a vast range of currency markets and trade with unparalleled liquidity and precision."
+        },
+        {
+          "title": "Crypto",
+          "text": "Dive into the revolutionary realm of cryptocurrencies. Whether you're trading Bitcoin, Ethereum, or other altcoins, our platform ensures timely executions and up-to-the-minute price data."
+        }
+      ]
+    },
+
+    "education": {
+      "title": "Comprehensive Education",
+      "texts": [
+        "Dive deep into our structured educational modules, tailored for both beginners and seasoned traders. From the basics of trading to advanced strategies, embark on a learning journey designed for success",
+        "Engage in live sessions with industry experts. Our webinars offer real-time insights, market analyses, and the opportunity to ask questions, ensuring you stay updated in this ever-evolving field. Step beyond theory and into practice. Our hands-on workshops provide a simulated trading environment, allowing you to apply your knowledge safely before entering the live markets."
+      ]
+    },
+    "benefits": {
+      "title": "Explore the key features and benefits",
+      "items": [
+        {
+          "icon": "/img/home/benefits-icon-1.svg",
+          "name": "Transparancy"
+        },
+        {
+          "icon": "/img/home/benefits-icon-2.svg",
+          "name": "Efficiency"
+        },
+        {
+          "icon": "/img/home/benefits-icon-3.svg",
+          "name": "Security"
+        },
+        {
+          "icon": "/img/home/benefits-icon-4.svg",
+          "name": "Availability"
+        }
+      ]
+    },
+    "investments": {
+      "title": "Control over your investments",
+      "desc": "Our team of professionals constantly monitors market trends and strives to provide our clients with favorable conditions.",
+      "list": [
+        "Instant access to up-to-date quotes",
+        "Reliable order execution",
+        "Detailed analysis of market movements"
+      ]
+    },
+    "journey": {
+      "title": "Embark on a journey filled with opportunities, insights, and growth",
+      "btnText": "Open Account"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+@function px_to_vw($px) {
+  @return #{calc($px / $screen-width) * 100} + 'vw';
+}
+
+@function px_to_vw_md($px) {
+  @return #{calc($px / $screen-width-md) * 100} + 'vw';
+}

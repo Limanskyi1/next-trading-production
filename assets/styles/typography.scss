@@ -1,0 +1,45 @@
+body {
+  background: $c-black;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $f-family-1;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: $c-white;
+}
+
+h1 {
+  font-weight: 600;
+  font-size: clamp(24px, px_to_vw(50), 50px);
+}
+
+h2 {
+  font-size: clamp(19px, px_to_vw(36), 36px);
+  font-weight: 500;
+}
+
+h4 {
+  font-size: clamp(17px, px_to_vw(28), 28px);
+  font-weight: 500;
+}
+
+h5 {
+  font-size: clamp(15px, px_to_vw(18), 18px);
+  font-weight: 500;
+}
+
+p,
+span,
+a,
+li {
+  font-family: $f-family-2;
+  font-size: 16px;
+  line-height: 150%;
+  color: $c-text;
+}

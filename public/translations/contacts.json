@@ -1,0 +1,17 @@
+{
+  "en": {
+    "head": {
+      "title": "Contacts",
+      "description": ""
+    },
+    "contact": "Contact Us",
+    "form": {
+      "name": "Your name",
+      "number": "Number",
+      "email": "Email",
+      "comment": "Your comment",
+      "btnText": "Submit",
+      "message": "Form submitted successfully!"
+    }
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "de": {
+    "menu": {
+      "company": {
+        "main": "Unternehmen",
+        "home": "Startseite",
+        "platform": "Plattform",
+        "about": "Über uns",
+        "accountTypes": "Kontotypen",
+        "contacts": "Kontakte",
+        "legal": "Rechtliches"
+      },
+      "tools": {
+        "main": "Werkzeuge",
+        "informers": "Informanten",
+        "calendars": "Kalender",
+        "calculators": "Taschenrechner",
+        "signals": "Signale"
+      },
+      "analytics": {
+        "main": "Analytik",
+        "news": "Nachrichten",
+        "technicalAnalysis": "Technische Analyse",
+        "fundamentalAnalysis": "Grundlegende Analyse",
+        "determiningTrendPotential": "Bestimmung des Trendpotenzials"
+      },
+      "edu": {
+        "main": "Bildung",
+        "beginnersGuide": "Leitfaden für Anfänger",
+        "advancedGuide": "Erweiterte Anleitung",
+        "beginnersVods": "Anfänger VODs",
+        "advancedVods": "Erweiterte VODs",
+        "cryptocurrencyVods": "Kryptowährung VODs"
+      }
+    }
+  },
+
+  "en": {
+    "menu": {
+      "company": {
+        "main": "Company",
+        "home": "Home",
+        "platform": "Platform",
+        "about": "About Us",
+        "accountTypes": "Account Types",
+        "contacts": "Contacts",
+        "legal": "Legal"
+      },
+      "tools": {
+        "main": "Tools",
+        "informers": "Informers",
+        "calendars": "Calendars",
+        "calculators": "Calculators",
+        "signals": "Signals"
+      },
+      "analytics": {
+        "main": "Analytics",
+        "news": "News",
+        "technicalAnalysis": "Technical Analysis",
+        "fundamentalAnalysis": "Fundamental Analysis",
+        "determiningTrendPotential": "Determining trend potential"
+      },
+      "edu": {
+        "main": "Education",
+        "beginnersGuide": "Beginners guide",
+        "advancedGuide": "Advanced guide",
+        "beginnersVods": "Beginners VODs",
+        "advancedVods": "Advanced VODs",
+        "cryptocurrencyVods": "Cryptocurrency VODs"
+      }
+    },
+    "btns": {
+      "signUp": "Sign Up",
+      "logIn": "Log In"
+    }
+  },
+
+  "fr": {
+    "menu": {
+      "company": {
+        "main": "Entreprise",
+        "home": "Accueil",
+        "platform": "Plateforme",
+        "about": "À propos de nous",
+        "accountTypes": "Types de comptes",
+        "contacts": "Contacts",
+        "legal": "Juridique"
+      },
+      "tools": {
+        "main": "Outils",
+        "informers": "Informateurs",
+        "calendars": "Calendriers",
+        "calculators": "Calculatrices",
+        "signals": "Signaux"
+      },
+      "analytics": {
+        "main": "Analyses",
+        "news": "Nouvelles",
+        "technicalAnalysis": "Analyse technique",
+        "fundamentalAnalysis": "Analyse fondamentale",
+        "determiningTrendPotential": "Détermination du potentiel de tendance"
+      },
+      "edu": {
+        "main": "Éducation",
+        "beginnersGuide": "Guide des débutants",
+        "advancedGuide": "Guide avancé",
+        "beginnersVods": "VODs pour débutants",
+        "advancedVods": "VODs avancés",
+        "cryptocurrencyVods": "VODs sur les cryptomonnaies"
+      }
+    }
+  },
+
+  "ru": {
+    "menu": {
+      "company": {
+        "main": "Компания",
+        "home": "Главная",
+        "platform": "Платформа",
+        "about": "О нас",
+        "accountTypes": "Типы счетов",
+        "contacts": "Контакты",
+        "legal": "Юридическая информация"
+      },
+      "tools": {
+        "main": "Инструменты",
+        "informers": "Информеры",
+        "calendars": "Календари",
+        "calculators": "Калькуляторы",
+        "signals": "Сигналы"
+      },
+      "analytics": {
+        "main": "Аналитика",
+        "news": "Новости",
+        "technicalAnalysis": "Технический анализ",
+        "fundamentalAnalysis": "Фундаментальный анализ",
+        "determiningTrendPotential": "Определение потенциала тренда"
+      },
+      "edu": {
+        "main": "Образование",
+        "beginnersGuide": "Руководство для начинающих",
+        "advancedGuide": "Руководство для продвинутых",
+        "beginnersVods": "Видеозаписи для начинающих",
+        "advancedVods": "Видеозаписи для продвинутых",
+        "cryptocurrencyVods": "Видеозаписи по криптовалютам"
+      }
+    }
+  }
+}

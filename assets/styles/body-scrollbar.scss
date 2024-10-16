@@ -1,0 +1,19 @@
+body {
+  &::-webkit-scrollbar {
+    width: 10px;
+    transition:1s ease;
+
+  }
+
+  &::-webkit-scrollbar-track {
+    background: #000;
+    transition:1s ease;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: $c-orange;
+    border-radius: 6px;
+    transition: 1s ease;
+
+  }
+}

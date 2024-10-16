@@ -1,0 +1,12 @@
+ {
+  "platformLink": "https://trade.domain.com",
+  "companyName": "[BrandName]",
+  "phone1": "[AAA-phone1]",
+  "phone2": "[AAA-phone2]",
+  "phone3": "[AAA-phone3]",
+  "email": "[AAA-email]",
+  "country": "[AAA-Country]",
+  "address": "[AAA-address]",
+  "addressLink": "https://goo.gl/maps/example",
+  "regNumber": "[reg-number]"
+}

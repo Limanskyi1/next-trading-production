@@ -1,0 +1,14 @@
+$wrapper-width: 1320;
+
+$screen-width: 1920;
+$screen-width-md: 768;
+
+$screen-height: 1080;
+
+:root {
+  --header-height: 91px;
+
+  @media (max-width: 480px) {
+    --header-height: 140px;
+  }
+}

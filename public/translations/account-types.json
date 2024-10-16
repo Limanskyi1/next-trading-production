@@ -1,0 +1,218 @@
+{
+
+  "en": {
+    "head": {
+      "title": "Account Types",
+      "description": ""
+    },
+    "subheader": "Account Types",
+    "accounts": [
+      {
+        "name": "Basic",
+        "price": "€ 2 000",
+        "options": {
+          "Tech support": {
+            "value": "Technical support 24/5",
+            "active": true
+          },
+          "Currency pairs": {
+            "value": "Currency pairs: 10",
+            "active": true
+          },
+          "Mentor": {
+            "value": "Mentor",
+            "active": false
+          },
+          "Commissions": {
+            "value": "Commissions",
+            "active": true
+          },
+          "Leverage": {
+            "value": "Leverage: 1:100",
+            "active": true
+          },
+          "Loyalty program": {
+            "value": "Loyalty program",
+            "active": false
+          },
+          "Auto Trade": {
+            "value": "Auto Trade",
+            "active": false
+          },
+          "Trading strategies": {
+            "value": "Trading strategies",
+            "active": false
+          },
+          "Personal manager": {
+            "value": "Personal manager",
+            "active": false
+          },
+          "Bonuses": {
+            "value": "Bonuses: up to 30%",
+            "active": true
+          },
+          "Insured transactions": {
+            "value": "Insured transactions",
+            "active": true
+          }
+        },
+        "btn_text": "Open Account"
+      },
+      {
+        "name": "Standart",
+        "price": "€ 5 000",
+        "options": {
+          "Tech support": {
+            "value": "Technical support 24/5",
+            "active": true
+          },
+          "Currency pairs": {
+            "value": "Currency pairs: 30",
+            "active": true
+          },
+          "Mentor": {
+            "value": "Mentor",
+            "active": false
+          },
+          "Commissions": {
+            "value": "Commissions",
+            "active": true
+          },
+          "Leverage": {
+            "value": "Leverage: 1:100",
+            "active": true
+          },
+          "Loyalty program": {
+            "value": "Loyalty program",
+            "active": false
+          },
+          "Auto Trade": {
+            "value": "Auto Trade",
+            "active": false
+          },
+          "Trading strategies": {
+            "value": "Trading strategies",
+            "active": false
+          },
+          "Personal manager": {
+            "value": "Personal manager",
+            "active": false
+          },
+          "Bonuses": {
+            "value": "Bonuses: up to 50%",
+            "active": true
+          },
+          "Insured transactions": {
+            "value": "Insured transactions",
+            "active": false
+          }
+        },
+        "btn_text": "Open Account"
+      },
+      {
+        "name": "Prime",
+        "price": "€ 15 000",
+        "options": {
+          "Tech support": {
+            "value": "Technical support 24/5",
+            "active": true
+          },
+          "Currency pairs": {
+            "value": "Currency pairs: 50",
+            "active": true
+          },
+          "Mentor": {
+            "value": "Mentor",
+            "active": true
+          },
+          "Commissions": {
+            "value": "Commissions",
+            "active": true
+          },
+          "Leverage": {
+            "value": "Leverage: 1:200",
+            "active": true
+          },
+          "Loyalty program": {
+            "value": "Loyalty program",
+            "active": true
+          },
+          "Auto Trade": {
+            "value": "Auto Trade",
+            "active": false
+          },
+          "Trading strategies": {
+            "value": "Trading strategies",
+            "active": false
+          },
+          "Personal manager": {
+            "value": "Personal manager",
+            "active": true
+          },
+          "Bonuses": {
+            "value": "Bonuses: up to 100%",
+            "active": true
+          },
+          "Insured transactions": {
+            "value": "Insured transactions",
+            "active": true
+          }
+        },
+        "btn_text": "Open Account"
+      },
+      {
+        "name": "VIP",
+        "price": "€ 50 000",
+        "options": {
+          "Tech support": {
+            "value": "Technical support 24/5",
+            "active": true
+          },
+          "Currency pairs": {
+            "value": "Currency pairs: 100",
+            "active": true
+          },
+          "Mentor": {
+            "value": "Mentor",
+            "active": true
+          },
+          "Commissions": {
+            "value": "Commissions",
+            "active": false
+          },
+          "Leverage": {
+            "value": "Leverage: 1:400",
+            "active": true
+          },
+          "Loyalty program": {
+            "value": "Loyalty program",
+            "active": true
+          },
+          "Auto Trade": {
+            "value": "Auto Trade",
+            "active": true
+          },
+          "Trading strategies": {
+            "value": "Trading strategies",
+            "active": true
+          },
+          "Personal manager": {
+            "value": "Personal manager",
+            "active": true
+          },
+          "Bonuses": {
+            "value": "Bonuses: up to 150%",
+            "active": true
+          },
+          "Insured transactions": {
+            "value": "Insured transactions",
+            "active": true
+          }
+        },
+        "btn_text": "Open Account"
+      }
+    ]
+  }
+}
+
+

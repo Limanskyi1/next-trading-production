@@ -1,0 +1,98 @@
+{
+
+  "en": {
+    "head": {
+      "title": "About Us",
+      "description": ""
+    },
+
+    "intro": {
+      "title": "About us",
+      "texts": [
+        "Since our inception in 2018, we have established ourselves as one of the leaders in our segment, attracting over 100,000 active traders worldwide",
+        "In our work we focus on three key principles: transparency, innovative technologies and individual approach to each client. Our goal is to create optimal conditions for your success in the financial markets by providing high speed execution of trades, access to advanced trading tools and round-the-clock support"
+      ],
+      "btnText": "Open Account"
+    },
+
+    "confidence": {
+      "title": "Confidence in every transaction",
+      "items": [
+        {
+          "icon": "/img/about/confidence-icon-1.svg",
+          "title": "Goals",
+          "text": "Our goals are focused on achieving your financial growth and success. We aim to give you a competitive advantage in the financial markets by offering advanced trading platforms, in-depth market analysis, expert support and innovative tools"
+        },
+        {
+          "icon": "/img/about/confidence-icon-2.svg",
+          "title": "Mission",
+          "text": "Our mission is to inspire and support traders of all experience levels by providing them with the reliable solutions, innovative technology and training they need to successfully trade the global markets."
+        }
+      ]
+    },
+
+    "evolution":{
+      "title": "The Evolution and Journey to Leadership of BrandName",
+      "items": [
+        {
+          "year": "2008",
+          "text": "The first 1000 clients were attracted, contributing to the company's market positioning."
+        },
+        {
+          "year": "2019",
+          "text": "Opening of an office in London helped the company strengthen its presence in the European market."
+        },
+        {
+          "year": "2014",
+          "text": "Instant execution technology was introduced, enhancing the trading experience for clients."
+        },
+        {
+          "year": "2024",
+          "text": "BrandName continues to lead in online trading, offering enhanced services and expanded market reach."
+        }
+      ]
+    },
+
+    "trading":{
+      "title": "Regulated and Secure Online Trading",
+      "items": [
+        {
+          "title": "Regulation",
+          "text": "We are a licensed and regulated company, complying with all applicable regulatory requirements and standards in the financial services industry."
+        },
+        {
+          "title": "Funds Segregation",
+          "text": "Your funds are held in separate bank accounts, segregated from the company's funds, to ensure their safety and accessibility at all times."
+        },
+        {
+          "title": "Encryption and Protection",
+          "text": "We employ advanced encryption technologies and multi-layered security measures to protect your personal data and financial information."
+        }
+      ]
+    },
+
+    
+    "successful":{
+      "title": "Become successful with us",
+      "btnText":"Open Account",
+      "items": [
+        {
+          "title": "$1.6Billion",
+          "text": "Market Capitalization"
+        },
+        {
+          "title": "$235 M",
+          "text": "Equity Capital"
+        },
+        {
+          "title": "151 000",
+          "text": "Client Accounts"
+        }
+      ]
+    }
+
+
+    
+  }
+
+}
